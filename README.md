@@ -56,7 +56,7 @@
 
 - About This Mac
 
-![image](https://github.com/hackintosh-efi/BIOSTAR-B660GTN-OpenCore/blob/main/ScreenShot/about this mac.png)
+![image](https://github.com/hackintosh-efi/BIOSTAR-B660GTN-OpenCore/blob/main/ScreenShot/aboutthismac.png)
 
 - Geekbench5 Score i5-12490F 
 
@@ -64,8 +64,8 @@
 
 - Geekbench5 Score Sapphire RX6600 Metal 
 
-![image](https://github.com/hackintosh-efi/BIOSTAR-B660GTN-OpenCore/blob/main/ScreenShot/Geekbench/GPU Metal.jpg)
+![image](https://github.com/hackintosh-efi/BIOSTAR-B660GTN-OpenCore/blob/main/ScreenShot/Geekbench/GPUMetal.jpg)
 
 - Geekbench5 Score Sapphire RX6600 OpenCL
 
-![image](https://github.com/hackintosh-efi/BIOSTAR-B660GTN-OpenCore/blob/main/ScreenShot/Geekbench/GPU OpenCL)
+![image](https://github.com/hackintosh-efi/BIOSTAR-B660GTN-OpenCore/blob/main/ScreenShot/Geekbench/GPUOpenCL.jpg)
