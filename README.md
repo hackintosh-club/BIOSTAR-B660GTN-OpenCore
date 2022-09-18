@@ -50,13 +50,13 @@
 
 ### ScreenShot 
 
-- Motherboard
-
-![image](https://github.com/hackintosh-efi/BIOSTAR-B660GTN-OpenCore/blob/main/ScreenShot/Motherboard/Motherboard.EN.png)
-
 - About This Mac
 
 ![image](https://github.com/hackintosh-efi/BIOSTAR-B660GTN-OpenCore/blob/main/ScreenShot/about_this_mac.jpg)
+
+- Motherboard
+
+![image](https://github.com/hackintosh-efi/BIOSTAR-B660GTN-OpenCore/blob/main/ScreenShot/Motherboard/Motherboard.EN.png)
 
 - Sensei
 
