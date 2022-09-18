@@ -82,4 +82,4 @@
 
 - CASE XiaoZheYouPin A1
 
-![image](https://github.com/hackintosh-efi/BIOSTAR-B660GTN-OpenCore/blob/main/ScreenShot/小喆优品_A1)
+![image](https://github.com/hackintosh-efi/BIOSTAR-B660GTN-OpenCore/blob/main/ScreenShot/小喆优品_A1。png)
