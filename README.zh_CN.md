@@ -34,8 +34,8 @@
 | 高级 → CPU配置 →  Intel (VMX) Virtualization Technology | 启用 |
 | 高级 → SATA Mode Selection | AHCI |
 | 芯片组 → System Agent (SA)配置 → Primary Display | PCH PCI |
-| 芯片组 → System Agent (SA)配置 →  VT-d | Disabled |
-| 芯片组 → System Agent (SA)配置 →  Above 4GB MMIO BIOS assignment | Enabled |
+| 芯片组 → System Agent (SA)配置 →  VT-d | 禁用 |
+| 芯片组 → System Agent (SA)配置 →  Above 4GB MMIO BIOS assignment | 启用 |
 | 启动 → 启动配置 → 快速启动 | 禁用 |
 | 启动 → 启动配置 → CSM支持 | 禁用 |
 | 安全 → 系统模式 → 安全启动 | 禁用 |
