@@ -56,7 +56,7 @@
 
 - About This Mac
 
-![image](https://github.com/hackintosh-efi/BIOSTAR-B660GTN-OpenCore/blob/main/ScreenShot/aboutthismac.png)
+![image](https://github.com/hackintosh-efi/BIOSTAR-B660GTN-OpenCore/blob/main/ScreenShot/about_this_mac.jpg)
 
 - Geekbench5 Score i5-12490F 
 
