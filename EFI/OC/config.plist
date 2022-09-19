@@ -888,7 +888,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>-v keepsyms=1 debug=0x100 -wegnoigpu agdpmod=pikera alcid=1</string>
+				<string>-v darkwake=0 keepsyms=1 debug=0x100 -wegnoigpu agdpmod=pikera alcid=1</string>
 				<key>csr-active-config</key>
 				<data>7w8AAA==</data>
 				<key>prev-lang:kbd</key>
