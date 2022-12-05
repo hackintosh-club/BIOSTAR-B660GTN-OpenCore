@@ -53,6 +53,10 @@
  - Config.plist - Kernel - ProvideCurrentCpuInfo - Ture
 
 ![image](https://github.com/hackintosh-efi/BIOSTAR-B660GTN-OpenCore/blob/main/ScreenShot/config.plist.png)
+
+ - Config.plist - Kernel - AirportItlwm-Monterey.kext  for  Monertey
+ 
+ - Config.plist - Kernel - AirportItlwm.kext  for  Ventura
  
 ### ScreenShot 
 

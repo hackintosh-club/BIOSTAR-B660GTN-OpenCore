@@ -52,6 +52,10 @@
  - Config.plist - Kernel内核设置 - ProvideCurrentCpuInfo - 勾选
 
 ![image](https://github.com/hackintosh-efi/BIOSTAR-B660GTN-OpenCore/blob/main/ScreenShot/config.plist.png)
+
+ - Config.plist - Kernel内核设置 - AirportItlwm-Monterey.kext  Monertey 使用
+ 
+ - Config.plist - Kernel内核设置 - AirportItlwm.kext  Ventura 使用
  
 ### 系统截图
 
