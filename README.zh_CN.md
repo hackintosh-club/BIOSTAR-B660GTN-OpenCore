@@ -1,5 +1,7 @@
 # 映泰B660GTN  黑苹果 OpenCore EFI
 
+![image](https://github.com/hackintosh-efi/BIOSTAR-B660GTN-OpenCore/blob/main/ScreenShot/Motherboard/Motherboard.EN.png)
+
 ### OpenCore
 
 [OpenCore 0.9.1](https://github.com/acidanthera/OpenCorePkg)
@@ -62,10 +64,6 @@
 - 关于本机
 
 ![image](https://github.com/hackintosh-efi/BIOSTAR-B660GTN-OpenCore/blob/main/ScreenShot/about_this_mac.jpg)
-
-- 主板
-
-![image](https://github.com/hackintosh-efi/BIOSTAR-B660GTN-OpenCore/blob/main/ScreenShot/Motherboard/Motherboard.CH.png)
 
 - Sensei
 

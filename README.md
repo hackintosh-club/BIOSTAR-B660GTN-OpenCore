@@ -1,5 +1,6 @@
 # BIOSTAR-B660GTN Hackintosh OpenCore EFI
 
+![image](https://github.com/hackintosh-efi/BIOSTAR-B660GTN-OpenCore/blob/main/ScreenShot/Motherboard/Motherboard.EN.png)
 ### [简体中文](README.zh_CN.md)
 
 ### OpenCore
@@ -63,10 +64,6 @@
 - About This Mac
 
 ![image](https://github.com/hackintosh-efi/BIOSTAR-B660GTN-OpenCore/blob/main/ScreenShot/about_this_mac.jpg)
-
-- Motherboard
-
-![image](https://github.com/hackintosh-efi/BIOSTAR-B660GTN-OpenCore/blob/main/ScreenShot/Motherboard/Motherboard.EN.png)
 
 - Sensei
 
