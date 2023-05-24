@@ -4,7 +4,7 @@
 
 ### OpenCore
 
-[OpenCore 0.9.1](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.9.2](https://github.com/acidanthera/OpenCorePkg)
 
 ### 可安装系统
 
@@ -84,3 +84,11 @@
 - 机箱 小喆优品 A1
 
 ![image](https://github.com/hackintosh-efi/BIOSTAR-B660GTN-OpenCore/blob/main/ScreenShot/CASE.png)
+
+
+### 联系我们 
+
+- QQ群: 23304408
+
+![image](ScreenShot/QRCode.png)
+

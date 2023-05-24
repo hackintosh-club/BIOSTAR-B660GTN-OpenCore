@@ -5,7 +5,7 @@
 
 ### OpenCore
 
-[OpenCore 0.9.1](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.9.2](https://github.com/acidanthera/OpenCorePkg)
 
 ### OS Version Tested
 
@@ -47,7 +47,7 @@
 
 ### Notes
 
- - Use [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) build your own SMBIOS
+ - Use [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) build your SMBIOS
  
  - If you use 12th Gen small core CPU like 12600KF , U must change Config.plist
 
@@ -84,3 +84,9 @@
 - CASE XiaoZheYouPin A1
 
 ![image](https://github.com/hackintosh-efi/BIOSTAR-B660GTN-OpenCore/blob/main/ScreenShot/CASE.png)
+
+### Contact Us 
+
+- QQ Group: 23304408
+
+![image](ScreenShot/QRCode.png)
