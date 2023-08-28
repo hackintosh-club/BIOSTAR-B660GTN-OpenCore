@@ -5,7 +5,7 @@
 
 ### OpenCore
 
-[OpenCore 0.9.2](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.9.4](https://github.com/acidanthera/OpenCorePkg)
 
 ### OS Version Tested
 
@@ -48,7 +48,7 @@
 ### Notes
 
  - Use [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) build your SMBIOS
- 
+
  - If you use 12th Gen small core CPU like 12600KF , U must change Config.plist
 
  - Config.plist - Kernel - ProvideCurrentCpuInfo - Ture
@@ -56,9 +56,9 @@
 ![image](https://github.com/hackintosh-efi/BIOSTAR-B660GTN-OpenCore/blob/main/ScreenShot/config.plist.png)
 
  - Config.plist - Kernel - AirportItlwm-Monterey.kext  for  Monertey
- 
+
  - Config.plist - Kernel - AirportItlwm.kext  for  Ventura
- 
+
 ### ScreenShot 
 
 - About This Mac

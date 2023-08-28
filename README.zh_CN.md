@@ -4,7 +4,7 @@
 
 ### OpenCore
 
-[OpenCore 0.9.2](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.9.4](https://github.com/acidanthera/OpenCorePkg)
 
 ### 可安装系统
 
@@ -48,7 +48,7 @@
 ### 注意事项
 
  - 使用 [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) 生成 SMBIOS
- 
+
  - 如果你使用12代具有小核心的CPU例如12600KF , 请务必修改Config.plist配置文件
 
  - Config.plist - Kernel内核设置 - ProvideCurrentCpuInfo - 勾选
@@ -56,9 +56,9 @@
 ![image](https://github.com/hackintosh-efi/BIOSTAR-B660GTN-OpenCore/blob/main/ScreenShot/config.plist.png)
 
  - Config.plist - Kernel内核设置 - AirportItlwm-Monterey.kext  Monertey 使用
- 
+
  - Config.plist - Kernel内核设置 - AirportItlwm.kext  Ventura 使用
- 
+
 ### 系统截图
 
 - 关于本机
