@@ -1,11 +1,12 @@
 # BIOSTAR-B660GTN Hackintosh OpenCore EFI
 
-![image](https://github.com/hackintosh-efi/BIOSTAR-B660GTN-OpenCore/blob/main/ScreenShot/Motherboard/Motherboard.EN.png)
+![image](ScreenShot/Motherboard/Motherboard.EN.png)
+
 ### [简体中文](README.zh_CN.md)
 
 ### OpenCore
 
-[OpenCore 0.9.4](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.9.5](https://github.com/acidanthera/OpenCorePkg)
 
 ### OS Version Tested
 
@@ -53,7 +54,7 @@
 
  - Config.plist - Kernel - ProvideCurrentCpuInfo - Ture
 
-![image](https://github.com/hackintosh-efi/BIOSTAR-B660GTN-OpenCore/blob/main/ScreenShot/config.plist.png)
+![image](ScreenShot/config.plist.png)
 
  - Config.plist - Kernel - AirportItlwm-Monterey.kext  for  Monertey
 
@@ -63,7 +64,7 @@
 
 - About This Mac
 
-![image](https://github.com/hackintosh-efi/BIOSTAR-B660GTN-OpenCore/blob/main/ScreenShot/about_this_mac.jpg)
+![image](ScreenShot/about_this_mac.jpg)
 
 - Sensei
 
