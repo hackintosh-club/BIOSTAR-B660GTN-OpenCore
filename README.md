@@ -6,7 +6,7 @@
 
 ### OpenCore
 
-[OpenCore 0.9.5](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.9.7](https://github.com/acidanthera/OpenCorePkg)
 
 ### OS Version Tested
 
@@ -68,23 +68,23 @@
 
 - Sensei
 
-![image](https://github.com/hackintosh-efi/BIOSTAR-B660GTN-OpenCore/blob/main/ScreenShot/sensei.jpg)
+![image](ScreenShot/sensei.jpg)
 
 - Geekbench5 Score i5-12490F 
 
-![image](https://github.com/hackintosh-efi/BIOSTAR-B660GTN-OpenCore/blob/main/ScreenShot/Geekbench/CPU.jpg)
+![image](ScreenShot/Geekbench/CPU.jpg)
 
 - Geekbench5 Score Sapphire RX6600 Metal 
 
-![image](https://github.com/hackintosh-efi/BIOSTAR-B660GTN-OpenCore/blob/main/ScreenShot/Geekbench/GPUMetal.jpg)
+![image](ScreenShot/Geekbench/GPUMetal.jpg)
 
 - Geekbench5 Score Sapphire RX6600 OpenCL
 
-![image](https://github.com/hackintosh-efi/BIOSTAR-B660GTN-OpenCore/blob/main/ScreenShot/Geekbench/GPUOpenCL.jpg)
+![image](ScreenShot/Geekbench/GPUOpenCL.jpg)
 
 - CASE XiaoZheYouPin A1
 
-![image](https://github.com/hackintosh-efi/BIOSTAR-B660GTN-OpenCore/blob/main/ScreenShot/CASE.png)
+![image](ScreenShot/CASE.png)
 
 ### Contact Us 
 

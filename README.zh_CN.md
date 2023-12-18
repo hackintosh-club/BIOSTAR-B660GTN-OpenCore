@@ -1,10 +1,10 @@
 # 映泰B660GTN  黑苹果 OpenCore EFI
 
-![image](https://github.com/hackintosh-efi/BIOSTAR-B660GTN-OpenCore/blob/main/ScreenShot/Motherboard/Motherboard.EN.png)
+![image](ScreenShot/Motherboard/Motherboard.EN.png)
 
 ### OpenCore
 
-[OpenCore 0.9.5](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.9.7](https://github.com/acidanthera/OpenCorePkg)
 
 ### 可安装系统
 
@@ -53,7 +53,7 @@
 
  - Config.plist - Kernel内核设置 - ProvideCurrentCpuInfo - 勾选
 
-![image](https://github.com/hackintosh-efi/BIOSTAR-B660GTN-OpenCore/blob/main/ScreenShot/config.plist.png)
+![image](ScreenShot/config.plist.png)
 
  - Config.plist - Kernel内核设置 - AirportItlwm-Monterey.kext  Monertey 使用
 
@@ -63,27 +63,27 @@
 
 - 关于本机
 
-![image](https://github.com/hackintosh-efi/BIOSTAR-B660GTN-OpenCore/blob/main/ScreenShot/about_this_mac.jpg)
+![image](ScreenShot/about_this_mac.jpg)
 
 - Sensei
 
-![image](https://github.com/hackintosh-efi/BIOSTAR-B660GTN-OpenCore/blob/main/ScreenShot/sensei.jpg)
+![image](ScreenShot/sensei.jpg)
 
 - Geekbench5 跑分 i5-12490F 
 
-![image](https://github.com/hackintosh-efi/BIOSTAR-B660GTN-OpenCore/blob/main/ScreenShot/Geekbench/CPU.jpg)
+![image](ScreenShot/Geekbench/CPU.jpg)
 
 - Geekbench5 跑分 蓝宝石 RX6600 Metal 
 
-![image](https://github.com/hackintosh-efi/BIOSTAR-B660GTN-OpenCore/blob/main/ScreenShot/Geekbench/GPUMetal.jpg)
+![image](ScreenShot/Geekbench/GPUMetal.jpg)
 
 - Geekbench5 跑分 蓝宝石 RX6600 OpenCL
 
-![image](https://github.com/hackintosh-efi/BIOSTAR-B660GTN-OpenCore/blob/main/ScreenShot/Geekbench/GPUOpenCL.jpg)
+![image](ScreenShot/Geekbench/GPUOpenCL.jpg)
 
 - 机箱 小喆优品 A1
 
-![image](https://github.com/hackintosh-efi/BIOSTAR-B660GTN-OpenCore/blob/main/ScreenShot/CASE.png)
+![image](ScreenShot/CASE.png)
 
 
 ### 联系我们 
