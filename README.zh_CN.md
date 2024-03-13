@@ -4,12 +4,13 @@
 
 ### OpenCore
 
-[OpenCore 0.9.7](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.9.9](https://github.com/acidanthera/OpenCorePkg)
 
 ### 可安装系统
 
 - macOS Monterey 12.x 
-- macOS Ventura  13.x 
+- macOS Ventura    13.x 
+- macOS Ventura    14.x 
 
 ### 硬件
 
@@ -36,7 +37,7 @@
 | 高级 → CPU配置 →  Intel (VMX) Virtualization Technology | 启用 |
 | 高级 → SATA Mode Selection | AHCI |
 | 芯片组 → System Agent (SA)配置 → Primary Display | PCH PCI |
-| 芯片组 → System Agent (SA)配置 →  VT-d | 禁用 |
+| 芯片组 → System Agent (SA)配置 →  VT-d | 启用 |
 | 芯片组 → System Agent (SA)配置 →  Above 4GB MMIO BIOS assignment | 启用 |
 | 启动 → 启动配置 → 快速启动 | 禁用 |
 | 启动 → 启动配置 → CSM支持 | 禁用 |
@@ -47,17 +48,13 @@
 
 ### 注意事项
 
- - 使用 [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) 生成 SMBIOS
+ - 使用 [OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) 生成 SMBIOS
 
  - 如果你使用12代具有小核心的CPU例如12600KF , 请务必修改Config.plist配置文件
 
  - Config.plist - Kernel内核设置 - ProvideCurrentCpuInfo - 勾选
 
 ![image](ScreenShot/config.plist.png)
-
- - Config.plist - Kernel内核设置 - AirportItlwm-Monterey.kext  Monertey 使用
-
- - Config.plist - Kernel内核设置 - AirportItlwm.kext  Ventura 使用
 
 ### 系统截图
 

@@ -6,7 +6,7 @@
 
 ### OpenCore
 
-[OpenCore 0.9.7](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.9.9](https://github.com/acidanthera/OpenCorePkg)
 
 ### OS Version Tested
 
@@ -38,7 +38,7 @@
 | Advenced → CPU Configuration →  Intel (VMX) Virtualization Technology | Enabled |
 | Advenced → SATA Mode Selection | AHCI |
 | Chipset → System Agent (SA) Configuration → Primary Display | PCH PCI |
-| Chipset → System Agent (SA) Configuration →  VT-d | Disabled |
+| Chipset → System Agent (SA) Configuration →  VT-d | Enabled |
 | Chipset → System Agent (SA) Configuration →  Above 4GB MMIO BIOS assignment | Enabled |
 | Boot → Boot Configuration → Fast Boot | Disabled |
 | Boot → Boot Configuration → CSM Support | Disabled |
@@ -48,17 +48,13 @@
 
 ### Notes
 
- - Use [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) build your SMBIOS
+ - Use [OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) build your SMBIOS
 
  - If you use 12th Gen small core CPU like 12600KF , U must change Config.plist
 
  - Config.plist - Kernel - ProvideCurrentCpuInfo - Ture
 
 ![image](ScreenShot/config.plist.png)
-
- - Config.plist - Kernel - AirportItlwm-Monterey.kext  for  Monertey
-
- - Config.plist - Kernel - AirportItlwm.kext  for  Ventura
 
 ### ScreenShot 
 
