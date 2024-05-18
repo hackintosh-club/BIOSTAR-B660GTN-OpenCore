@@ -1,3 +1,5 @@
+[简体中文](README.zh_CN.md)丨English
+
 # BIOSTAR-B660GTN Hackintosh OpenCore EFI
 
 <div align="center">
@@ -6,19 +8,17 @@
 
 </div>
 
-### [简体中文](README.zh_CN.md)
-
-### OpenCore
+## OpenCore
 
 [OpenCore 1.0.0](https://github.com/acidanthera/OpenCorePkg)
 
-### OS Version Tested
+## OS Version Tested
 
 - macOS Monterey 12.x
 - macOS Ventura 13.x
 - macOS Sonoma 14.x
 
-### Hardware
+## Hardware
 
 - Motherboard: BIOSTAR B660GTN
 - Bios Version: B66AY225.BST（2022-02-25）
@@ -35,7 +35,7 @@
 - PSU: Delta 500W 1U
 - CASE: XiaoZheYouPin A1
 
-### Bios Setup
+## Bios Setup
 
 | Name                                                                        | Option   |
 |-----------------------------------------------------------------------------|----------|
@@ -51,7 +51,7 @@
 | Tweaker → CPU Power Management → CFG Lock                                   | Disabled |
 | Tweaker → GT Power Management → RC6(Render Standby)                         | Disabled |
 
-### Notes
+## Notes
 
 - Use [OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) build your SMBIOS
 
@@ -65,7 +65,7 @@
 
    </div>
 
-### ScreenShot
+## ScreenShot
 
 - About This Mac
 
@@ -113,7 +113,7 @@
   |------------------------------|------------------------------|
   | ![](/ScreenShot/Case/4.webp) | ![](/ScreenShot/Case/3.webp) |
 
-### Contact Us
+## Contact Us
 
 - QQ Group: 23304408
 

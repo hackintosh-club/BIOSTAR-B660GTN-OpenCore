@@ -1,3 +1,5 @@
+简体中文丨[English](README.md)
+
 # 映泰B660GTN  黑苹果 OpenCore EFI
 
 <div align="center">
@@ -6,17 +8,17 @@
 
 </div>
 
-### OpenCore
+## OpenCore
 
 [OpenCore 1.0.0](https://github.com/acidanthera/OpenCorePkg)
 
-### 可安装系统
+## 可安装系统
 
 - macOS Monterey 12.x
 - macOS Ventura 13.x
 - macOS Ventura 14.x
 
-### 硬件
+## 硬件
 
 - 主板: 映泰B660GTN
 - Bios版本: B66AY225.BST（2022-02-25）
@@ -33,7 +35,7 @@
 - 电源: 台达 500W 1U
 - 机箱: 小喆优品 A1
 
-### Bios 设置
+## Bios 设置
 
 | 名称                                                          | 选项      |
 |-------------------------------------------------------------|---------|
@@ -49,7 +51,7 @@
 | 调节器 → CPU Power Management → CFG Lock                       | 禁用      |
 | 调节器 → GT Power Management → RC6(Render Standby)             | 禁用      |
 
-### 注意事项
+## 注意事项
 
 - 使用 [OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) 生成 SMBIOS
 
@@ -63,7 +65,7 @@
 
    </div>
 
-### 系统截图
+## 系统截图
 
 - 关于本机
 
@@ -111,7 +113,7 @@
   |------------------------------|------------------------------|
   | ![](/ScreenShot/Case/4.webp) | ![](/ScreenShot/Case/3.webp) |
 
-### 联系我们
+## 联系我们
 
 - QQ群: 23304408
 
