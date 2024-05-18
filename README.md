@@ -1,6 +1,10 @@
 # BIOSTAR-B660GTN Hackintosh OpenCore EFI
 
+<div align="center">
+
 ![image](ScreenShot/Motherboard/Motherboard.EN.png)
+
+</div>
 
 ### [简体中文](README.zh_CN.md)
 
@@ -55,33 +59,61 @@
 
  - Config.plist - Kernel - ProvideCurrentCpuInfo - Ture
 
-![image](ScreenShot/config.plist.png)
+<div align="center">
+
+![image](ScreenShot/config.webp)
+
+</div>
 
 ### ScreenShot 
 
 - About This Mac
 
-![image](ScreenShot/about_this_mac.jpg)
+<div align="center">
+
+![image](ScreenShot/Mac_Version.webp)
+
+</div>
 
 - Sensei
 
-![image](ScreenShot/sensei.jpg)
+<div align="center">
 
-- Geekbench5 Score i5-12490F 
+![image](ScreenShot/Sensei.webp)
 
-![image](ScreenShot/Geekbench/CPU.jpg)
+</div>
 
-- Geekbench5 Score Sapphire RX6600 Metal 
+- Geekbench6 Score i5-12490F 
 
-![image](ScreenShot/Geekbench/GPUMetal.jpg)
+<div align="center">
 
-- Geekbench5 Score Sapphire RX6600 OpenCL
+![image](ScreenShot/Geekbench/CPU.webp)
 
-![image](ScreenShot/Geekbench/GPUOpenCL.jpg)
+</div>
+
+- Geekbench6 Score Sapphire RX6600 Metal 
+
+<div align="center">
+
+![image](ScreenShot/Geekbench/GPU_Metal.webp)
+
+</div>
+
+- Geekbench6 Score Sapphire RX6600 OpenCL
+
+<div align="center">
+
+![image](ScreenShot/Geekbench/GPU_OpenCL.webp)
+
+</div>
 
 - CASE XiaoZheYouPin A1
 
+<div align="center">
+
 ![image](ScreenShot/CASE.png)
+
+</div>
 
 ### Contact Us 
 

@@ -1,6 +1,10 @@
 # 映泰B660GTN  黑苹果 OpenCore EFI
 
-![image](ScreenShot/Motherboard/Motherboard.EN.png)
+<div align="center">
+
+![image](ScreenShot/Motherboard/Motherboard.CH.png)
+
+</div>
 
 ### OpenCore
 
@@ -54,38 +58,65 @@
 
  - Config.plist - Kernel内核设置 - ProvideCurrentCpuInfo - 勾选
 
-![image](ScreenShot/config.plist.png)
+    <div align="center">
+
+    ![image](ScreenShot/config.webp)
+
+    </div>
 
 ### 系统截图
 
 - 关于本机
 
-![image](ScreenShot/about_this_mac.jpg)
+    <div align="center">
+
+    ![image](ScreenShot/Mac_Version.webp)
+
+    </div>
 
 - Sensei
 
-![image](ScreenShot/sensei.jpg)
+    <div align="center">
 
-- Geekbench5 跑分 i5-12490F 
+    ![image](ScreenShot/Sensei.webp)
 
-![image](ScreenShot/Geekbench/CPU.jpg)
+    </div>
 
-- Geekbench5 跑分 蓝宝石 RX6600 Metal 
+- Geekbench6 跑分 i5-12490F 
 
-![image](ScreenShot/Geekbench/GPUMetal.jpg)
+    <div align="center">
 
-- Geekbench5 跑分 蓝宝石 RX6600 OpenCL
+    ![image](ScreenShot/Geekbench/CPU.webp)
 
-![image](ScreenShot/Geekbench/GPUOpenCL.jpg)
+    </div>
+
+- Geekbench6 跑分 蓝宝石 RX6600 Metal 
+
+    <div align="center">
+
+    ![image](ScreenShot/Geekbench/GPU_Metal.webp)
+
+    </div>
+
+- Geekbench6 跑分 蓝宝石 RX6600 OpenCL
+
+    <div align="center">
+
+    ![image](ScreenShot/Geekbench/GPU_OpenCL.webp)
+
+    </div>
 
 - 机箱 小喆优品 A1
 
-![image](ScreenShot/CASE.png)
+    <div align="center">
 
+    ![image](ScreenShot/CASE.png)
+
+    </div>
 
 ### 联系我们 
 
 - QQ群: 23304408
-
-![image](ScreenShot/QRCode.png)
+    
+    ![image](ScreenShot/QRCode.png)
 
