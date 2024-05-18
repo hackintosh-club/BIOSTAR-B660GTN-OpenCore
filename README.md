@@ -110,7 +110,7 @@
 - Case LZmod F1-1U
 
   | ![](/ScreenShot/Case/1.webp) | ![](/ScreenShot/Case/2.webp) |
-      |------------------------------|------------------------------|
+  |------------------------------|------------------------------|
   | ![](/ScreenShot/Case/4.webp) | ![](/ScreenShot/Case/3.webp) |
 
 ### Contact Us
