@@ -23,17 +23,17 @@
 - Motherboard: BIOSTAR B660GTN
 - Bios Version: B66AY225.BST（2022-02-25）
 - CPU: Intel i5-12490F
-- RAM: kingbank 2x32GB DDR4 3800MHz
+- RAM: kingbank 2x32GB DDR4 3600MHz
 - SSD: 1. CT1000P3PSSD8 1TB MacOS
 - SSD: 2. Predator GM7000 1TB Windows
 - HDD: Seagate ST1000LM048 DATA
 - GPU: Sapphire RX6600
 - Audio: Realtek ALC256
 - Ethernet: Realtek PCle 2.5GbE Family Controller
-- Wireless: Intel AX201
-- Display: PHL275E9
+- Wireless: Broadcom BCM94360NG
+- Display: HKC T3252U
 - PSU: Delta 500W 1U
-- CASE: XiaoZheYouPin A1
+- CASE: LZmod F1-1U
 
 ## Bios Setup
 
