@@ -4,11 +4,11 @@
 
 ### OpenCore
 
-[OpenCore 0.9.9](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 1.0.0](https://github.com/acidanthera/OpenCorePkg)
 
 ### 可安装系统
 
-- macOS Monterey 12.x 
+- macOS Monterey   12.x 
 - macOS Ventura    13.x 
 - macOS Ventura    14.x 
 
@@ -17,8 +17,8 @@
 - 主板: 映泰B660GTN
 - Bios版本: B66AY225.BST（2022-02-25）
 - 处理器: 英特尔 i5-12490F
-- 内存: 金泰克 2x32GB DDR4 3800MHz
-- 硬盘: 1.建兴 CV6-8Q128 128G MacOS
+- 内存: 金百达 2x32GB DDR4 3800MHz（首批次cjr颗粒，后期出厂混发颗粒不推荐）
+- 硬盘: 1.英睿达 P3P 1TB MacOS
 - 硬盘: 2.宏碁掠夺者 GM7000 1TB Windows
 - 硬盘: 3.希捷酷鱼 ST1000LM048 DATA
 - 独显: 蓝宝石 RX6600

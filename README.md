@@ -6,20 +6,21 @@
 
 ### OpenCore
 
-[OpenCore 0.9.9](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 1.0.0](https://github.com/acidanthera/OpenCorePkg)
 
 ### OS Version Tested
 
 - macOS Monterey 12.x
 - macOS Ventura  13.x 
+- macOS Sonoma   14.x
 
 ### Hardware
 
 - Motherboard: BIOSTAR B660GTN
 - Bios Version: B66AY225.BST（2022-02-25）
 - CPU: Intel i5-12490F
-- RAM: kimtigo 2x32GB DDR4 3800MHz
-- SSD: 1. LITEON CV6-8Q128 128G MacOS
+- RAM: kingbank 2x32GB DDR4 3800MHz
+- SSD: 1. CT1000P3PSSD8 1TB MacOS
 - SSD: 2. Predator GM7000 1TB Windows
 - HDD: Seagate ST1000LM048 DATA 
 - GPU: Sapphire RX6600
