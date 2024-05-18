@@ -15,8 +15,8 @@
 ### OS Version Tested
 
 - macOS Monterey 12.x
-- macOS Ventura  13.x 
-- macOS Sonoma   14.x
+- macOS Ventura 13.x
+- macOS Sonoma 14.x
 
 ### Hardware
 
@@ -26,7 +26,7 @@
 - RAM: kingbank 2x32GB DDR4 3800MHz
 - SSD: 1. CT1000P3PSSD8 1TB MacOS
 - SSD: 2. Predator GM7000 1TB Windows
-- HDD: Seagate ST1000LM048 DATA 
+- HDD: Seagate ST1000LM048 DATA
 - GPU: Sapphire RX6600
 - Audio: Realtek ALC256
 - Ethernet: Realtek PCle 2.5GbE Family Controller
@@ -37,85 +37,83 @@
 
 ### Bios Setup
 
-| Name | Option |
-| ----- | --- |
-| Advenced → CPU Configuration →  C6DRAM | Enabled |
-| Advenced → CPU Configuration →  Intel (VMX) Virtualization Technology | Enabled |
-| Advenced → SATA Mode Selection | AHCI |
-| Chipset → System Agent (SA) Configuration → Primary Display | PCH PCI |
-| Chipset → System Agent (SA) Configuration →  VT-d | Enabled |
-| Chipset → System Agent (SA) Configuration →  Above 4GB MMIO BIOS assignment | Enabled |
-| Boot → Boot Configuration → Fast Boot | Disabled |
-| Boot → Boot Configuration → CSM Support | Disabled |
-| Security → System Mode → Secure Boot | Disabled |
-| Tweaker → CPU Power Management → CFG Lock | Disabled |
-| Tweaker → GT Power Management → RC6(Render Standby) | Disabled |
+| Name                                                                        | Option   |
+|-----------------------------------------------------------------------------|----------|
+| Advenced → CPU Configuration →  C6DRAM                                      | Enabled  |
+| Advenced → CPU Configuration →  Intel (VMX) Virtualization Technology       | Enabled  |
+| Advenced → SATA Mode Selection                                              | AHCI     |
+| Chipset → System Agent (SA) Configuration → Primary Display                 | PCH PCI  |
+| Chipset → System Agent (SA) Configuration →  VT-d                           | Enabled  |
+| Chipset → System Agent (SA) Configuration →  Above 4GB MMIO BIOS assignment | Enabled  |
+| Boot → Boot Configuration → Fast Boot                                       | Disabled |
+| Boot → Boot Configuration → CSM Support                                     | Disabled |
+| Security → System Mode → Secure Boot                                        | Disabled |
+| Tweaker → CPU Power Management → CFG Lock                                   | Disabled |
+| Tweaker → GT Power Management → RC6(Render Standby)                         | Disabled |
 
 ### Notes
 
- - Use [OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) build your SMBIOS
+- Use [OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) build your SMBIOS
 
- - If you use 12th Gen small core CPU like 12600KF , U must change Config.plist
+- If you use 12th Gen small core CPU like 12600KF , U must change Config.plist
 
- - Config.plist - Kernel - ProvideCurrentCpuInfo - Ture
+- Config.plist - Kernel - ProvideCurrentCpuInfo - Ture
 
-<div align="center">
+   <div align="center">
 
-![image](ScreenShot/config.webp)
+  ![image](ScreenShot/config.webp)
 
-</div>
+   </div>
 
-### ScreenShot 
+### ScreenShot
 
 - About This Mac
 
-<div align="center">
+    <div align="center">
 
-![image](ScreenShot/Mac_Version.webp)
+  ![image](ScreenShot/Mac_Version.webp)
 
-</div>
+    </div>
 
 - Sensei
 
-<div align="center">
+    <div align="center">
 
-![image](ScreenShot/Sensei.webp)
+  ![image](ScreenShot/Sensei.webp)
 
-</div>
+    </div>
 
-- Geekbench6 Score i5-12490F 
+- Geekbench6 Score i5-12490F
 
-<div align="center">
+    <div align="center">
 
-![image](ScreenShot/Geekbench/CPU.webp)
+  ![image](ScreenShot/Geekbench/CPU.webp)
 
-</div>
+    </div>
 
-- Geekbench6 Score Sapphire RX6600 Metal 
+- Geekbench6 Score Sapphire RX6600 Metal
 
-<div align="center">
+    <div align="center">
 
-![image](ScreenShot/Geekbench/GPU_Metal.webp)
+  ![image](ScreenShot/Geekbench/GPU_Metal.webp)
 
-</div>
+    </div>
 
 - Geekbench6 Score Sapphire RX6600 OpenCL
 
-<div align="center">
+    <div align="center">
 
-![image](ScreenShot/Geekbench/GPU_OpenCL.webp)
+  ![image](ScreenShot/Geekbench/GPU_OpenCL.webp)
 
-</div>
+    </div>
 
-- CASE XiaoZheYouPin A1
+- Case LZmod F1-1U
 
-<div align="center">
+  | ![](/ScreenShot/Case/1.webp) | ![](/ScreenShot/Case/2.webp) |
+      |------------------------------|------------------------------|
+  | ![](/ScreenShot/Case/4.webp) | ![](/ScreenShot/Case/3.webp) |
 
-![image](ScreenShot/CASE.png)
-
-</div>
-
-### Contact Us 
+### Contact Us
 
 - QQ Group: 23304408
 

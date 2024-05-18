@@ -12,9 +12,9 @@
 
 ### 可安装系统
 
-- macOS Monterey   12.x 
-- macOS Ventura    13.x 
-- macOS Ventura    14.x 
+- macOS Monterey 12.x
+- macOS Ventura 13.x
+- macOS Ventura 14.x
 
 ### 硬件
 
@@ -35,34 +35,33 @@
 
 ### Bios 设置
 
-| 名称 | 选项 |
-| ----- | --- |
-| 高级 → CPU配置 → C6DRAM | 启用 |
-| 高级 → CPU配置 →  Intel (VMX) Virtualization Technology | 启用 |
-| 高级 → SATA Mode Selection | AHCI |
-| 芯片组 → System Agent (SA)配置 → Primary Display | PCH PCI |
-| 芯片组 → System Agent (SA)配置 →  VT-d | 启用 |
-| 芯片组 → System Agent (SA)配置 →  Above 4GB MMIO BIOS assignment | 启用 |
-| 启动 → 启动配置 → 快速启动 | 禁用 |
-| 启动 → 启动配置 → CSM支持 | 禁用 |
-| 安全 → 系统模式 → 安全启动 | 禁用 |
-| 调节器 → CPU Power Management → CFG Lock | 禁用 |
-| 调节器 → GT Power Management → RC6(Render Standby) | 禁用 |
-
+| 名称                                                          | 选项      |
+|-------------------------------------------------------------|---------|
+| 高级 → CPU配置 → C6DRAM                                         | 启用      |
+| 高级 → CPU配置 →  Intel (VMX) Virtualization Technology         | 启用      |
+| 高级 → SATA Mode Selection                                    | AHCI    |
+| 芯片组 → System Agent (SA)配置 → Primary Display                 | PCH PCI |
+| 芯片组 → System Agent (SA)配置 →  VT-d                           | 启用      |
+| 芯片组 → System Agent (SA)配置 →  Above 4GB MMIO BIOS assignment | 启用      |
+| 启动 → 启动配置 → 快速启动                                            | 禁用      |
+| 启动 → 启动配置 → CSM支持                                           | 禁用      |
+| 安全 → 系统模式 → 安全启动                                            | 禁用      |
+| 调节器 → CPU Power Management → CFG Lock                       | 禁用      |
+| 调节器 → GT Power Management → RC6(Render Standby)             | 禁用      |
 
 ### 注意事项
 
- - 使用 [OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) 生成 SMBIOS
+- 使用 [OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) 生成 SMBIOS
 
- - 如果你使用12代具有小核心的CPU例如12600KF , 请务必修改Config.plist配置文件
+- 如果你使用12代具有小核心的CPU例如12600KF , 请务必修改Config.plist配置文件
 
- - Config.plist - Kernel内核设置 - ProvideCurrentCpuInfo - 勾选
+- Config.plist - Kernel内核设置 - ProvideCurrentCpuInfo - 勾选
 
-    <div align="center">
+   <div align="center">
 
-    ![image](ScreenShot/config.webp)
+  ![image](ScreenShot/config.webp)
 
-    </div>
+   </div>
 
 ### 系统截图
 
@@ -70,7 +69,7 @@
 
     <div align="center">
 
-    ![image](ScreenShot/Mac_Version.webp)
+  ![image](ScreenShot/Mac_Version.webp)
 
     </div>
 
@@ -78,23 +77,23 @@
 
     <div align="center">
 
-    ![image](ScreenShot/Sensei.webp)
+  ![image](ScreenShot/Sensei.webp)
 
     </div>
 
-- Geekbench6 跑分 i5-12490F 
+- Geekbench6 跑分 i5-12490F
 
     <div align="center">
 
-    ![image](ScreenShot/Geekbench/CPU.webp)
+  ![image](ScreenShot/Geekbench/CPU.webp)
 
     </div>
 
-- Geekbench6 跑分 蓝宝石 RX6600 Metal 
+- Geekbench6 跑分 蓝宝石 RX6600 Metal
 
     <div align="center">
 
-    ![image](ScreenShot/Geekbench/GPU_Metal.webp)
+  ![image](ScreenShot/Geekbench/GPU_Metal.webp)
 
     </div>
 
@@ -102,21 +101,19 @@
 
     <div align="center">
 
-    ![image](ScreenShot/Geekbench/GPU_OpenCL.webp)
+  ![image](ScreenShot/Geekbench/GPU_OpenCL.webp)
 
     </div>
 
-- 机箱 小喆优品 A1
+- 机箱 LZmod F1-1U
 
-    <div align="center">
+  | ![](/ScreenShot/Case/1.webp) | ![](/ScreenShot/Case/2.webp) |
+  |------------------------------|------------------------------|
+  | ![](/ScreenShot/Case/4.webp) | ![](/ScreenShot/Case/3.webp) |
 
-    ![image](ScreenShot/CASE.png)
-
-    </div>
-
-### 联系我们 
+### 联系我们
 
 - QQ群: 23304408
-    
-    ![image](ScreenShot/QRCode.png)
+
+  ![image](ScreenShot/QRCode.png)
 
