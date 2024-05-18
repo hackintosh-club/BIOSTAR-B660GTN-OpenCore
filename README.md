@@ -107,7 +107,7 @@
 
     </div>
 
-- Case LZmod F1-1U
+- Case [LZmod F1-1U](https://caseend.com/data/lzmod-studio/lzmod-f1-1u)
 
   | ![](/ScreenShot/Case/1.webp) | ![](/ScreenShot/Case/2.webp) |
   |------------------------------|------------------------------|
