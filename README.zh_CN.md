@@ -1,91 +1,121 @@
+简体中文丨[English](README.md)
+
 # 映泰B660GTN  黑苹果 OpenCore EFI
 
-![image](ScreenShot/Motherboard/Motherboard.EN.png)
+<div align="center">
 
-### OpenCore
+![image](ScreenShot/Motherboard/Motherboard.CH.png)
 
-[OpenCore 0.9.9](https://github.com/acidanthera/OpenCorePkg)
+</div>
 
-### 可安装系统
+## OpenCore
 
-- macOS Monterey 12.x 
-- macOS Ventura    13.x 
-- macOS Ventura    14.x 
+[OpenCore 1.0.0](https://github.com/acidanthera/OpenCorePkg)
 
-### 硬件
+## 可安装系统
+
+- macOS Monterey 12.x
+- macOS Ventura 13.x
+- macOS Sonoma 14.x
+
+## 硬件
 
 - 主板: 映泰B660GTN
 - Bios版本: B66AY225.BST（2022-02-25）
 - 处理器: 英特尔 i5-12490F
-- 内存: 金泰克 2x32GB DDR4 3800MHz
-- 硬盘: 1.建兴 CV6-8Q128 128G MacOS
+- 内存: 金百达 2x32GB DDR4 3600MHz
+- 硬盘: 1.英睿达 P3P 1TB MacOS
 - 硬盘: 2.宏碁掠夺者 GM7000 1TB Windows
 - 硬盘: 3.希捷酷鱼 ST1000LM048 DATA
 - 独显: 蓝宝石 RX6600
 - 声卡: 瑞昱 ALC256
 - 网卡: 瑞昱 PCle 2.5G网络控制器
-- 无线: 英特尔 AX201
-- 显示器: PHL275E9
+- 无线: 博通 BCM94360NG
+- 显示器: HKC T3252U
 - 电源: 台达 500W 1U
-- 机箱: 小喆优品 A1
+- 机箱: LZmod F1-1U
 
-### Bios 设置
+## Bios 设置
 
-| 名称 | 选项 |
-| ----- | --- |
-| 高级 → CPU配置 → C6DRAM | 启用 |
-| 高级 → CPU配置 →  Intel (VMX) Virtualization Technology | 启用 |
-| 高级 → SATA Mode Selection | AHCI |
-| 芯片组 → System Agent (SA)配置 → Primary Display | PCH PCI |
-| 芯片组 → System Agent (SA)配置 →  VT-d | 启用 |
-| 芯片组 → System Agent (SA)配置 →  Above 4GB MMIO BIOS assignment | 启用 |
-| 启动 → 启动配置 → 快速启动 | 禁用 |
-| 启动 → 启动配置 → CSM支持 | 禁用 |
-| 安全 → 系统模式 → 安全启动 | 禁用 |
-| 调节器 → CPU Power Management → CFG Lock | 禁用 |
-| 调节器 → GT Power Management → RC6(Render Standby) | 禁用 |
+| 名称                                                          | 选项      |
+|-------------------------------------------------------------|---------|
+| 高级 → CPU配置 → C6DRAM                                         | 启用      |
+| 高级 → CPU配置 →  Intel (VMX) Virtualization Technology         | 启用      |
+| 高级 → SATA Mode Selection                                    | AHCI    |
+| 芯片组 → System Agent (SA)配置 → Primary Display                 | PCH PCI |
+| 芯片组 → System Agent (SA)配置 →  VT-d                           | 启用      |
+| 芯片组 → System Agent (SA)配置 →  Above 4GB MMIO BIOS assignment | 启用      |
+| 启动 → 启动配置 → 快速启动                                            | 禁用      |
+| 启动 → 启动配置 → CSM支持                                           | 禁用      |
+| 安全 → 系统模式 → 安全启动                                            | 禁用      |
+| 调节器 → CPU Power Management → CFG Lock                       | 禁用      |
+| 调节器 → GT Power Management → RC6(Render Standby)             | 禁用      |
 
+## 注意事项
 
-### 注意事项
+- 使用 [OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) 生成 SMBIOS
 
- - 使用 [OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) 生成 SMBIOS
+- 如果你使用12代具有小核心的CPU例如12600KF , 请务必修改Config.plist配置文件
 
- - 如果你使用12代具有小核心的CPU例如12600KF , 请务必修改Config.plist配置文件
+- Config.plist - Kernel内核设置 - ProvideCurrentCpuInfo - 勾选
 
- - Config.plist - Kernel内核设置 - ProvideCurrentCpuInfo - 勾选
+   <div align="center">
 
-![image](ScreenShot/config.plist.png)
+  ![image](ScreenShot/config.webp)
 
-### 系统截图
+   </div>
+
+## 系统截图
 
 - 关于本机
 
-![image](ScreenShot/about_this_mac.jpg)
+    <div align="center">
+
+  ![image](ScreenShot/Mac_Version.webp)
+
+    </div>
 
 - Sensei
 
-![image](ScreenShot/sensei.jpg)
+    <div align="center">
 
-- Geekbench5 跑分 i5-12490F 
+  ![image](ScreenShot/Sensei.webp)
 
-![image](ScreenShot/Geekbench/CPU.jpg)
+    </div>
 
-- Geekbench5 跑分 蓝宝石 RX6600 Metal 
+- Geekbench6 跑分 i5-12490F
 
-![image](ScreenShot/Geekbench/GPUMetal.jpg)
+    <div align="center">
 
-- Geekbench5 跑分 蓝宝石 RX6600 OpenCL
+  ![image](ScreenShot/Geekbench/CPU.webp)
 
-![image](ScreenShot/Geekbench/GPUOpenCL.jpg)
+    </div>
 
-- 机箱 小喆优品 A1
+- Geekbench6 跑分 蓝宝石 RX6600 Metal
 
-![image](ScreenShot/CASE.png)
+    <div align="center">
 
+  ![image](ScreenShot/Geekbench/GPU_Metal.webp)
 
-### 联系我们 
+    </div>
+
+- Geekbench6 跑分 蓝宝石 RX6600 OpenCL
+
+    <div align="center">
+
+  ![image](ScreenShot/Geekbench/GPU_OpenCL.webp)
+
+    </div>
+
+- 机箱 [LZmod F1-1U](https://caseend.com/data/lzmod-studio/lzmod-f1-1u)
+
+  | ![](/ScreenShot/Case/1.webp) | ![](/ScreenShot/Case/2.webp) |
+  |------------------------------|------------------------------|
+  | ![](/ScreenShot/Case/4.webp) | ![](/ScreenShot/Case/3.webp) |
+
+## 联系我们
 
 - QQ群: 23304408
 
-![image](ScreenShot/QRCode.png)
+  ![image](ScreenShot/QRCode.png)
 
